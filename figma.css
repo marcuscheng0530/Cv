@@ -1,0 +1,32 @@
+div {
+width: 950px;
+display: block; 
+margin-left: auto; 
+margin-right: auto;
+#width: 50%;
+border-radius: 30px;
+
+}
+
+#andra_div{
+background-color: #54AB95;
+}
+
+
+
+  .col
+{
+    float: left;
+    width: 25%;
+    display: block; 
+margin-left: auto; 
+margin-right: auto;
+}
+
+.last{
+    clear: left;
+}
+
+
+
+
